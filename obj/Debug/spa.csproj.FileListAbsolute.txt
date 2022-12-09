@@ -42,3 +42,8 @@ C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.csproj.Su
 C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.exe.config
 C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.exe
 C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.pdb
+C:\Users\Руслан\Desktop\spawithgitdanil\spawithgit\obj\Debug\spa.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\spawithgitdanil\spawithgit\obj\Debug\spa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\Desktop\spawithgitdanil\spawithgit\obj\Debug\spa.exe.config
+C:\Users\Руслан\Desktop\spawithgitdanil\spawithgit\obj\Debug\spa.exe
+C:\Users\Руслан\Desktop\spawithgitdanil\spawithgit\obj\Debug\spa.pdb
