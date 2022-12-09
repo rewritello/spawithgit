@@ -37,3 +37,8 @@ C:\Users\Руслан\source\repos\spa\spa\obj\Debug\spa.CatalogForRegisteredUse
 C:\Users\Руслан\source\repos\spa\spa\obj\Debug\spa.CatalogForAdminForm.resources
 C:\Users\Руслан\source\repos\spa\spa\obj\Debug\spa.AddProductInCatalogForm.resources
 C:\Users\Руслан\source\repos\spa\spa\obj\Debug\spa.ChangePassForm.resources
+C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.exe.config
+C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.exe
+C:\Users\Руслан\Desktop\spawithgitartem\spawithgit\obj\Debug\spa.pdb
